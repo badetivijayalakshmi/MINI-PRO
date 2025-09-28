@@ -107,7 +107,7 @@ Unlike static analysis notebooks, this project delivers a **fully operational bu
 
 Python
 Pandas
-Streamlitite)
+Streamlitite
 Plotly
 
 🤝 Contributing
