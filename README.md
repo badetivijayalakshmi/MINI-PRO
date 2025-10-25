@@ -2,7 +2,7 @@
 
  A comprehensive **Data Analysis and Business Intelligence solution** that transforms raw sales data into actionable insights for strategic decision-making.
 
-🎯 Project Overview
+Project Overview
 
 The "Sales Insights Dashboard" is a data analytics project designed to answer critical business questions through data-driven insights:
 
@@ -13,16 +13,16 @@ The "Sales Insights Dashboard" is a data analytics project designed to answer cr
 
 This project demonstrates **business-oriented analytical thinking** and the ability to derive **strategic insights from raw data**, making it perfect for showcasing skills relevant to **Data Analyst, BI Analyst, and Business Strategy roles**.
 
-✨ Key Features
+Key Features
 
-- 🔍 **Comprehensive Data Analysis** with automated KPI generation
-- 📈 **Interactive Streamlit Dashboard** with real-time filtering
-- 👥 **Customer Segmentation** using RFM (Recency, Frequency, Monetary) analysis
-- 📊 **Dynamic Visualizations** with date range, category, and region filters
-- 💼 **Business-Ready Insights** suitable for executive reporting
-- 🎨 **Professional UI/UX** designed for business stakeholders
+-  **Comprehensive Data Analysis** with automated KPI generation
+-  **Interactive Streamlit Dashboard** with real-time filtering
+-  **Customer Segmentation** using RFM (Recency, Frequency, Monetary) analysis
+-  **Dynamic Visualizations** with date range, category, and region filters
+-  **Business-Ready Insights** suitable for executive reporting
+-  **Professional UI/UX** designed for business stakeholders
 
-🗂️ Project Structure
+Project Structure
 
 ```
 Sales_Insights_Project/
@@ -35,7 +35,7 @@ Sales_Insights_Project/
 └── Sales_Insights_Analysis.ipynb # Exploratory Data Analysis notebook
 ```
 
-**🚀 Getting Started**
+**Getting Started**
 
 Prerequisites
 - Python 3.7+
@@ -62,7 +62,7 @@ Installation
 4. **Access the application**
    Open your browser and navigate to `http://localhost:8501`
 
-📈 What This Project Demonstrates
+What This Project Demonstrates
 
 Technical Skills
 - **Data Cleaning & Transformation** — Preparing structured, analysis-ready datasets
@@ -76,26 +76,26 @@ Business Intelligence Capabilities
 - **Performance Tracking** — Regional and product-level performance analysis
 - **Strategic Insights** — Actionable recommendations for business growth
 
-🎯 Target Audience
+Target Audience
 
 This dashboard serves multiple stakeholders:
 
-- **📊 Business Teams** — Decision support and performance monitoring
-- **🎯 Sales & Marketing** — Customer profiling and campaign optimization
-- **💡 Data Teams** — Foundation for advanced analytics and automation
-- **👔 Executive Leadership** — High-level strategic insights and reporting
+- **Business Teams** — Decision support and performance monitoring
+- **Sales & Marketing** — Customer profiling and campaign optimization
+- **Data Teams** — Foundation for advanced analytics and automation
+- **Executive Leadership** — High-level strategic insights and reporting
 
-🏆 Why This Project Stands Out
+Why This Project Stands Out
 
 Unlike static analysis notebooks, this project delivers a **fully operational business intelligence system** that:
 
-- ✅ **Bridges technical analysis with business strategy**
-- ✅ **Provides real-time, interactive data exploration**
-- ✅ **Demonstrates end-to-end project development**
-- ✅ **Shows user-focused design thinking**
-- ✅ **Reflects production-ready coding practices**
+- **Bridges technical analysis with business strategy**
+- **Provides real-time, interactive data exploration**
+- **Demonstrates end-to-end project development**
+- **Shows user-focused design thinking**
+- **Reflects production-ready coding practices**
 
-📊 Sample Insights Generated
+Sample Insights Generated
 
 - Top 10 revenue-generating products and customers
 - Regional performance comparisons with growth trends
@@ -110,7 +110,7 @@ Pandas
 Streamlitite
 Plotly
 
-🤝 Contributing
+Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
 
